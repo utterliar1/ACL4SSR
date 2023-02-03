@@ -1,3 +1,6 @@
 # 内容：Emby
-# 数量：1条
-DOMAIN-KEYWORD,ccemby
+# 数量：4条
+DOMAIN-SUFFIX,ccemby.tk
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,misty.ltd
