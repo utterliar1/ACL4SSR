@@ -1,0 +1,7 @@
+payload:
+  # 内容：Emby直连
+  - DOMAIN-SUFFIX,ccemby.tk
+  - DOMAIN-SUFFIX,loseremby.org
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,misty.ltd
+  
