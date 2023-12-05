@@ -1,8 +1,13 @@
 payload:
-  # ChatGPT
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,chat.openai.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
-  - DOMAIN-SUFFIX,chat.openai.com
-  - DOMAIN-SUFFIX,auth0.openai.com
-  - DOMAIN-SUFFIX,ai.com
+  - 'openai.com'
+  - 'pay.openai.com'
+  - 'chat.openai.com'
+  # - 'challenges.cloudflare.com'
+  - 'auth0.openai.com'
+  - 'platform.openai.com'
+  - 'ai.com'
+  # - 'invoice.stripe.com'
+  # - 'stripe.com'
+  # - 'poe.com'
+  - '*.oaistatic.com'
+  - '*.oaiusercontent.com'
