@@ -1,0 +1,9 @@
+payload:
+  # 内容：CDN
+  # 数量：6条
+  - DOMAIN-SUFFIX,supjav.com
+  - DOMAIN-SUFFIX,img.supjav.com
+  - DOMAIN-SUFFIX,fc2stream.tv
+  - DOMAIN-SUFFIX,do0od.com
+  - DOMAIN-SUFFIX,japopav.tv
+  - DOMAIN-SUFFIX,dp.haiwaikan.com
