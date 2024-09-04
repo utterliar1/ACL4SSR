@@ -1,7 +1,5 @@
 payload:
   # 自定义：走代理
-  - DOMAIN-SUFFIX,winktv.co
-  - DOMAIN-SUFFIX,hls.live-video.net
   - DOMAIN-SUFFIX,wlup.top
   - DOMAIN-SUFFIX,hsex.tv
   - DOMAIN-SUFFIX,www.bing.com
