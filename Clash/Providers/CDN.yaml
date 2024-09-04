@@ -6,6 +6,6 @@ payload:
   - DOMAIN-SUFFIX,fc2stream.tv
   - DOMAIN-SUFFIX,do0od.com
   - DOMAIN-SUFFIX,japopav.tv
-  - DOMAIN-SUFFIX,dp.haiwaikan.com
-  - DOMAIN-SUFFIX,hls.live-video.net
+  - DOMAIN-SUFFIX,dp.haiwaikan.com  
   - DOMAIN-SUFFIX,winktv.co
+  - DOMAIN-SUFFIX,api.winktv.co.kr
