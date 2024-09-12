@@ -1,6 +1,7 @@
 payload:
   # 自定义：走代理
   - DOMAIN-SUFFIX,wlup.top
+  - DOMAIN-SUFFIX,wlup.eu.org
   - DOMAIN-SUFFIX,hsex.tv
   - DOMAIN-SUFFIX,www.bing.com
   - DOMAIN-SUFFIX,tapecontent.net
